@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="arr" value="() =&gt; {&#10;      &#10;    }" description="arrow function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
