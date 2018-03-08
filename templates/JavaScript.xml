@@ -3,7 +3,7 @@
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="cons" value="console.log(...arguments$END$);" description="" toReformat="true" toShortenFQNames="true">
+  <template name="cons" value="console.log(...arguments$END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
