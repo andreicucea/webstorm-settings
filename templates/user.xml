@@ -1,5 +1,6 @@
 <templateSet group="user">
-  <template name="arr" value="() =&gt; {$END$}" description="arrow function" toReformat="false" toShortenFQNames="true">
+  <template name="arr" value="($1$) =&gt; {$END$}" description="arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSX_HTML" value="true" />
       <option name="JS_EXPRESSION" value="true" />
