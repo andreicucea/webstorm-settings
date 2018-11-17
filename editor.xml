@@ -1,7 +1,4 @@
 <application>
-  <component name="EditorSettings">
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
