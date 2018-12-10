@@ -1,11 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="AddSRLineDialog" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="actions" type="PLAIN_TEXT" />
-      <mapping pattern="ItemPickerConverter.ts" type="PLAIN_TEXT" />
-      <mapping pattern="SearchFilters" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
