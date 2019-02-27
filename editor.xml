@@ -1,13 +1,8 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-  </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
 </application>
