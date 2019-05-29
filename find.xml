@@ -13,5 +13,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js.orig</mask>
+    <mask>*.*.orig</mask>
   </component>
 </application>
