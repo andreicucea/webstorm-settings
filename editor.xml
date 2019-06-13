@@ -1,0 +1,5 @@
+<application>
+  <component name="LiveEditOptions" chromeUpdateOnChanges="false" restartIfHotSwapFailed="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
+</application>
