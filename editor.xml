@@ -1,7 +1,3 @@
 <application>
-  <component name="EditorSettings">
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
-  <component name="LiveEditOptions" chromeUpdateOnChanges="false" useJBChromeExtension="true" />
+  <component name="LiveEditOptions" chromeUpdateOnChanges="false" updateFilesToCompile="true" useJBChromeExtension="true" />
 </application>
