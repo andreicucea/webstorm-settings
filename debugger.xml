@@ -3,7 +3,9 @@
     <data-views>
       <show-values-inline>false</show-values-inline>
     </data-views>
-    <general />
+    <general>
+      <option name="showDebuggerOnBreakpoint" value="false" />
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
