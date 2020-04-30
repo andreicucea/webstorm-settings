@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="https://www.bitbucket.com" id="05321709-9c64-4658-af41-0b4d604e7974" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="cucea.mania" />
+    </configs>
+  </component>
+</application>
