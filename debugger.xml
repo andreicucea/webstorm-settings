@@ -1,13 +1,15 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <option name="showDebuggerOnBreakpoint" value="false" />
     </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration watchReturnValues="true">
           <custom-object-presentation />
         </configuration>
       </debugger>
